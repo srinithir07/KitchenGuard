@@ -105,7 +105,7 @@ The stove stays on. Nobody notices. Until it's too late.
 
 ---
 
-## 🤖 ML Model Details
+##  ML Model Details
 
 ### Algorithm: Random Forest Classifier
 
@@ -195,7 +195,7 @@ SAFE      → All parameters within normal range
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 KitchenGuard/
