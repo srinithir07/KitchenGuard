@@ -4,7 +4,7 @@
 
 ## Hardware Setup
 
-<h2>Hardware Setup</h2>
+
 
 <p align="center">
   <img src="HardwareImage1.jpeg" width="400">
