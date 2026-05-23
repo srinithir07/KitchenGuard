@@ -4,10 +4,15 @@
 
 ## Hardware Setup
 
-<!-- Add your hardware photo here -->
-<!-- Upload your image to the repo and replace the path below -->
+<h2>Hardware Setup</h2>
 
-![KitchenGuard Hardware Setup](images/hardware.jpg)
+<p align="center">
+  <img src="HardwareImage1.jpeg" width="400">
+</p>
+
+<p align="center">
+  <img src="HardwareImage2.jpeg" width="400">
+</p>
 
 > *Complete hardware setup: ESP32 on breadboard with MQ-2, PIR, Flame sensor, DHT22, LEDs and Buzzer*
 
